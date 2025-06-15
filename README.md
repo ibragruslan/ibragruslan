@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me 👋
+
++ Generating creative ideas for my projects
++ I use innovation and creativity in every project😄
 
 <!--
 **ibragruslan/ibragruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
